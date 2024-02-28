@@ -1,4 +1,4 @@
 # netfl-X
 Demo of netflix page
-<br><br/>
+<br>
 Commit means save the changes
