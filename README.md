@@ -17,9 +17,12 @@ To configuring git :
         git config --list
 
 untracked  :  new files that git doesn't yet track
+
 modified   :  changed
+
 staged     :  file is ready to be committed
-                (add the but yet to commit)            
+                (add the but yet to commit)  
+                          
 unmodified :  unchanged
 
 add : adds new or changed files in your working mdirectory to the git staging area  
