@@ -28,3 +28,6 @@ add : adds new or changed files in your working mdirectory to the git staging ar
 
 commit - it is record of change
         git commit -m "some message"
+
+push  - upload local repo content to remote repo
+        git push origin main
