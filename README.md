@@ -1,5 +1,5 @@
-# netfl-X
-Demo of netflix page
+# git_demo
+Demo to create the file in github and copy to local
 <br>
 Commit means save the changes in github
 
@@ -22,7 +22,7 @@ modified   :  changed
 
 staged     :  file is ready to be committed
                 (add the but yet to commit)  
-                          
+
 unmodified :  unchanged
 
 add : adds new or changed files in your working mdirectory to the git staging area  
